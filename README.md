@@ -1,8 +1,9 @@
 # PIZZA-SALES-ANALYSIS
+## Project Objective
 I Have Developed a Comprehensive Project On Excel, creating multiple dashboards and tables to analyze data. This process involves several stages  including data processing, data cleaning and data visualization.
 
 
-KPI’s REQUIREMENT
+## KPI’s REQUIREMENT
 
 
 We need to analyze key indicators for our pizza sales data to gain insights into our business performance. Specifically, we want to calculate the following metrics:
@@ -18,7 +19,7 @@ We need to analyze key indicators for our pizza sales data to gain insights into
 5. Average Pizzas Per Order: The average number of pizzas sold per order, calculated by dividing the total number of pizzas sold by the total number of orders.
 
 
-CHARTS REQUIREMENT
+## CHARTS REQUIREMENT
 
 
 We would like to visualize various aspects of our pizza sales data to gain insights and understand key trends. We have identified the following requirements for creating charts:
@@ -43,3 +44,9 @@ Create a bar chart highlighting the top 5 best-selling pizzas based on the Reven
 
 7. Bottom 5 Best Sellers by Revenue, Total Quantity and Total Orders:
 Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the Revenue, Total Quantity, Total Orders. This chart will enable us to identify underperforming or less popular pizza options.
+
+##DATASET USED
+<a href= "https://github.com/devansh-beep/PIZZA-SALES-PROJECT-ANALYSIS/blob/main/pizza_sales_excel_file.xlsx" a><dataset>
+
+
+https://tinyurl.com/8rjjndjb
