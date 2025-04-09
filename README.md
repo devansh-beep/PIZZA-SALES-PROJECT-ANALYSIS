@@ -42,9 +42,11 @@ We need to analyze key indicators for our pizza sales data to gain insights into
  - Dashboard Interaction <a href =  https://github.com/devansh-beep/PIZZA-SALES-PROJECT-ANALYSIS/blob/main/pizza%201.jpg> View Dashboard 1</a>
 
 ## DASHBOARD 1
-![pizza 1](https://github.com/user-attachments/assets/06972003-19cf-4b49-b6a3-5526f0c9e7c8)
-## CHARTS REQUIREMENT
+![pizza 1](https://github.com/user-attachments/assets/a47a3b09-0dae-49e1-a3f2-8ca938eb6aae)
 
+
+
+## CHARTS REQUIREMENT
 
 We would like to visualize various aspects of our pizza sales data to gain insights and understand key trends. We have identified the following requirements for creating charts:
 
@@ -72,5 +74,6 @@ Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the Rev
  - Dashboard Interaction <a href = https://github.com/devansh-beep/PIZZA-SALES-PROJECT-ANALYSIS/blob/main/pizza%202.jpg> View Dashboard 2</a>
    
 ##DASHBOARD 2 
-![pizza 2](https://github.com/user-attachments/assets/a47a3b09-0dae-49e1-a3f2-8ca938eb6aae)
+![pizza 2](https://github.com/user-attachments/assets/06972003-19cf-4b49-b6a3-5526f0c9e7c8)
+
 
