@@ -1,4 +1,4 @@
-# PIZZA-SALES-ANALYSIS
+# PIZZA-SALES-DASHBOARD-ANALYSIS
 ## Project Objective
 I Have Developed a Comprehensive Project On Excel, creating multiple dashboards and tables to analyze data. This process involves several stages  including data processing, data cleaning and data visualization.
 To better understand how our pizza business is performing, we need to look at some important numbers and create helpful visuals. Here’s what we plan to do:
